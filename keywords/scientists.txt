@@ -1,0 +1,6 @@
+Albert Einstein#https://baike.baidu.com/item/玛丽·居里/3675053?fromtitle=Marie+Curie&fromid=10246091&fromModule=lemma_search-box
+Marie Curie#https://baike.baidu.com/item/阿尔伯特·爱因斯坦/127535?fromtitle=albert+einstein&fromid=11156602&fromModule=lemma_search-box
+Isaac Newton#https://baike.baidu.com/item/艾萨克·牛顿?fromtitle=Isaac+Newton&fromid=8771343&fromModule=lemma_search-box
+Galileo Galilei#https://baike.baidu.com/item/伽利略·伽利雷/6028466?fromtitle=Galileo%20Galilei&fromid=10243227
+Stephen Hawking#https://baike.baidu.com/item/斯蒂芬·威廉·霍金?fromtitle=stephen+hawking&fromid=11156435&fromModule=lemma_search-box
+

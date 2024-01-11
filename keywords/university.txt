@@ -1,0 +1,4 @@
+Carnegie Mellon University#https://baike.baidu.com/link?url=xUdeuREIdNTuHk1GxP3YtaJiZDE5-PVpUEBgJdVO2t4RpBVjFkcm2myIFVU6JsGd6zI_rI5Da-4iCkdjZdGZyS-86ree7p_GdG4TmINjGjqI4Cl05sO0pNSBR0jDxvB7JgfMtB2_jCLHqWq_dqYbj1KDwWoSS9Q57IFfqBuZExG
+University of Cambridge#https://baike.baidu.com/item/剑桥大学/278542?lemmaFrom=lemma_starMap&fromModule=lemma_starMap&starNodeId=d6e5cbd73e2033efba964f44&lemmaIdFrom=567733
+Stanford University#https://baike.baidu.com/item/斯坦福大学/278716?lemmaFrom=lemma_starMap&fromModule=lemma_starMap&starNodeId=82c735fad0e8672a5af719db&lemmaIdFrom=567733
+Peking University#https://baike.baidu.com/item/北京大学
